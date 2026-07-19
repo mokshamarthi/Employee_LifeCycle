@@ -1,0 +1,221 @@
+emp_id,name,department,salary,salary_band
+19,Emp_19,IT,36875,Low Salary
+29,Emp_29,HR,39637,Low Salary
+31,Emp_31,SALES,48997,Medium Salary
+33,Emp_33,SALES,78953,High Salary
+36,Emp_36,FINANCE,46673,Medium Salary
+55,Emp_55,HR,40890,Medium Salary
+62,Emp_62,SALES,90786,Very High Salary
+87,Emp_87,FINANCE,38601,Low Salary
+108,Emp_108,IT,49443,Medium Salary
+132,Emp_132,IT,72777,High Salary
+137,Emp_137,IT,97081,Very High Salary
+142,Emp_142,SALES,78867,High Salary
+149,Emp_149,MARKETING,41282,Medium Salary
+157,Emp_157,HR,80039,High Salary
+165,Emp_165,SALES,62079,Medium Salary
+166,Emp_166,IT,66335,Medium Salary
+182,Emp_182,FINANCE,69462,Medium Salary
+193,Emp_193,HR,32277,Low Salary
+196,Emp_196,SALES,98566,Very High Salary
+129,Emp_129,IT,45319,Medium Salary
+204,Emp_204,HR,39496,Low Salary
+103,Emp_103,SALES,88360,High Salary
+205,Emp_205,HR,61144,Medium Salary
+178,Emp_178,MARKETING,99417,Very High Salary
+162,Emp_162,FINANCE,72915,High Salary
+85,Emp_85,SALES,99842,Very High Salary
+25,Emp_25,FINANCE,72688,High Salary
+98,Emp_98,FINANCE,32888,Low Salary
+26,Emp_26,SALES,72746,High Salary
+93,Emp_93,FINANCE,102379,Very High Salary
+63,Emp_63,HR,86691,High Salary
+57,Emp_57,HR,47394,Medium Salary
+84,Emp_84,HR,46083,Medium Salary
+44,Emp_44,FINANCE,98389,Very High Salary
+91,Emp_91,FINANCE,54613,Medium Salary
+43,Emp_43,MARKETING,72972,High Salary
+50,Emp_50,MARKETING,40093,Medium Salary
+136,Emp_136,HR,88387,High Salary
+163,Emp_163,MARKETING,46276,Medium Salary
+106,Emp_106,SALES,67033,Medium Salary
+203,Emp_203,IT,46144,Medium Salary
+158,Emp_158,SALES,94302,Very High Salary
+143,Emp_143,IT,84425,High Salary
+147,Emp_147,FINANCE,67831,Medium Salary
+123,Emp_123,HR,96507,Very High Salary
+130,Emp_130,MARKETING,90935,Very High Salary
+169,Emp_169,FINANCE,101256,Very High Salary
+202,Emp_202,HR,63760,Medium Salary
+153,Emp_153,SALES,83668,High Salary
+164,Emp_164,FINANCE,99216,Very High Salary
+161,Emp_161,IT,38191,Low Salary
+122,Emp_122,SALES,85835,High Salary
+120,Emp_120,IT,36278,Low Salary
+167,Emp_167,IT,77416,High Salary
+195,Emp_195,FINANCE,51973,Medium Salary
+206,Emp_206,HR,45324,Medium Salary
+125,Emp_125,MARKETING,51662,Medium Salary
+121,Emp_121,SALES,58326,Medium Salary
+192,Emp_192,SALES,58108,Medium Salary
+210,Emp_210,SALES,73104,High Salary
+194,Emp_194,HR,79743,High Salary
+200,Emp_200,HR,59697,Medium Salary
+159,Emp_159,SALES,69834,Medium Salary
+117,Emp_117,MARKETING,75068,High Salary
+115,Emp_115,HR,78453,High Salary
+214,Emp_214,IT,79651,High Salary
+135,Emp_135,IT,55652,Medium Salary
+144,Emp_144,MARKETING,88402,High Salary
+173,Emp_173,IT,73277,High Salary
+216,Emp_216,HR,31967,Low Salary
+191,Emp_191,IT,52184,Medium Salary
+183,Emp_183,FINANCE,49701,Medium Salary
+140,Emp_140,FINANCE,77325,High Salary
+111,Emp_111,HR,77945,High Salary
+160,Emp_160,MARKETING,96069,Very High Salary
+198,Emp_198,MARKETING,39904,Low Salary
+145,Emp_145,MARKETING,70263,High Salary
+185,Emp_185,FINANCE,31690,Low Salary
+133,Emp_133,IT,59190,Medium Salary
+172,Emp_172,FINANCE,68057,Medium Salary
+187,Emp_187,SALES,86469,High Salary
+114,Emp_114,SALES,55794,Medium Salary
+134,Emp_134,HR,63813,Medium Salary
+186,Emp_186,IT,70049,High Salary
+220,Emp_220,FINANCE,68383,Medium Salary
+141,Emp_141,MARKETING,88934,High Salary
+113,Emp_113,IT,49450,Medium Salary
+131,Emp_131,HR,96102,Very High Salary
+208,Emp_208,FINANCE,65226,Medium Salary
+197,Emp_197,MARKETING,60812,Medium Salary
+180,Emp_180,IT,46940,Medium Salary
+188,Emp_188,FINANCE,56491,Medium Salary
+155,Emp_155,MARKETING,98399,Very High Salary
+217,Emp_217,FINANCE,37549,Low Salary
+219,Emp_219,HR,42740,Medium Salary
+168,Emp_168,SALES,90040,Very High Salary
+177,Emp_177,IT,44914,Medium Salary
+211,Emp_211,FINANCE,71936,High Salary
+218,Emp_218,IT,49043,Medium Salary
+212,Emp_212,IT,51377,Medium Salary
+156,Emp_156,HR,56877,Medium Salary
+174,Emp_174,FINANCE,53489,Medium Salary
+207,Emp_207,IT,54868,Medium Salary
+154,Emp_154,FINANCE,90172,Very High Salary
+118,Emp_118,MARKETING,88776,High Salary
+199,Emp_199,SALES,59144,Medium Salary
+99,Emp_99,HR,109412,Very High Salary
+30,Emp_30,SALES,100654,Very High Salary
+101,Emp_101,FINANCE,84903,High Salary
+76,Emp_76,HR,53907,Medium Salary
+24,Emp_24,MARKETING,83299,High Salary
+72,Emp_72,FINANCE,84978,High Salary
+48,Emp_48,HR,104430,Very High Salary
+88,Emp_88,SALES,44450,Medium Salary
+21,Emp_21,SALES,97914,Very High Salary
+49,Emp_49,HR,58333,Medium Salary
+10,Emp_10,SALES,102465,Very High Salary
+40,Emp_40,IT,75033,High Salary
+51,Emp_51,MARKETING,43663,Medium Salary
+32,Emp_32,HR,98198,Very High Salary
+27,Emp_27,HR,61079,Medium Salary
+38,Emp_38,HR,59539,Medium Salary
+23,Emp_23,IT,96024,Very High Salary
+107,Emp_107,MARKETING,72351,High Salary
+69,Emp_69,IT,81939,High Salary
+71,Emp_71,FINANCE,43758,Medium Salary
+34,Emp_34,SALES,55448,Medium Salary
+65,Emp_65,HR,47321,Medium Salary
+8,Emp_8,HR,89874,High Salary
+52,Emp_52,SALES,42744,Medium Salary
+54,Emp_54,IT,95705,Very High Salary
+75,Emp_75,FINANCE,38782,Low Salary
+64,Emp_64,IT,95990,Very High Salary
+90,Emp_90,IT,53208,Medium Salary
+96,Emp_96,FINANCE,93154,Very High Salary
+74,Emp_74,HR,52972,Medium Salary
+109,Emp_109,FINANCE,109271,Very High Salary
+70,Emp_70,SALES,104106,Very High Salary
+7,Emp_7,HR,30599,Low Salary
+104,Emp_104,MARKETING,49353,Medium Salary
+53,Emp_53,SALES,92497,Very High Salary
+110,Emp_110,IT,53610,Medium Salary
+5,Emp_5,HR,109476,Very High Salary
+56,Emp_56,IT,89857,High Salary
+22,Emp_22,IT,47198,Medium Salary
+67,Emp_67,IT,100557,Very High Salary
+78,Emp_78,SALES,72636,High Salary
+42,Emp_42,MARKETING,63222,Medium Salary
+37,Emp_37,SALES,45824,Medium Salary
+80,Emp_80,IT,96003,Very High Salary
+82,Emp_82,HR,90809,Very High Salary
+46,Emp_46,MARKETING,69121,Medium Salary
+94,Emp_94,IT,82891,High Salary
+100,Emp_100,HR,83961,High Salary
+58,Emp_58,HR,61334,Medium Salary
+77,Emp_77,IT,44884,Medium Salary
+41,Emp_41,SALES,56708,Medium Salary
+9,Emp_9,MARKETING,52440,Medium Salary
+15,Emp_15,IT,63465,Medium Salary
+1,Emp_1,FINANCE,54780,Medium Salary
+73,Emp_73,SALES,35357,Low Salary
+105,Emp_105,MARKETING,65263,Medium Salary
+215,Emp_215,IT,67371,Medium Salary
+127,Emp_127,IT,99044,Very High Salary
+126,Emp_126,SALES,94727,Very High Salary
+190,Emp_190,FINANCE,98898,Very High Salary
+124,Emp_124,IT,100259,Very High Salary
+151,Emp_151,MARKETING,73963,High Salary
+116,Emp_116,FINANCE,34546,Low Salary
+179,Emp_179,MARKETING,104958,Very High Salary
+175,Emp_175,HR,36932,Low Salary
+171,Emp_171,SALES,38270,Low Salary
+128,Emp_128,HR,58039,Medium Salary
+152,Emp_152,MARKETING,106012,Very High Salary
+213,Emp_213,FINANCE,65509,Medium Salary
+150,Emp_150,HR,77591,High Salary
+146,Emp_146,SALES,89343,High Salary
+181,Emp_181,HR,75248,High Salary
+112,Emp_112,HR,63010,Medium Salary
+176,Emp_176,SALES,94719,Very High Salary
+119,Emp_119,HR,107681,Very High Salary
+139,Emp_139,IT,97050,Very High Salary
+148,Emp_148,SALES,92140,Very High Salary
+201,Emp_201,IT,69494,Medium Salary
+170,Emp_170,HR,85059,High Salary
+209,Emp_209,MARKETING,75338,High Salary
+184,Emp_184,SALES,76088,High Salary
+138,Emp_138,FINANCE,94286,Very High Salary
+189,Emp_189,MARKETING,99478,Very High Salary
+86,Emp_86,FINANCE,96541,Very High Salary
+17,Emp_17,SALES,81179,High Salary
+3,Emp_3,IT,93010,Very High Salary
+28,Emp_28,IT,56208,Medium Salary
+18,Emp_18,IT,97446,Very High Salary
+13,Emp_13,HR,108863,Very High Salary
+83,Emp_83,SALES,93730,Very High Salary
+47,Emp_47,SALES,62329,Medium Salary
+39,Emp_39,HR,90106,Very High Salary
+95,Emp_95,FINANCE,47305,Medium Salary
+79,Emp_79,HR,79163,High Salary
+60,Emp_60,HR,51207,Medium Salary
+81,Emp_81,SALES,75787,High Salary
+35,Emp_35,SALES,65349,Medium Salary
+61,Emp_61,SALES,41981,Medium Salary
+97,Emp_97,MARKETING,80306,High Salary
+14,Emp_14,SALES,59980,Medium Salary
+20,Emp_20,MARKETING,58391,Medium Salary
+89,Emp_89,SALES,65184,Medium Salary
+102,Emp_102,IT,99489,Very High Salary
+12,Emp_12,IT,60960,Medium Salary
+11,Emp_11,FINANCE,64599,Medium Salary
+2,Emp_2,SALES,65513,Medium Salary
+6,Emp_6,IT,72394,High Salary
+16,Emp_16,FINANCE,67363,Medium Salary
+4,Emp_4,HR,44173,Medium Salary
+92,Emp_92,HR,103892,Very High Salary
+66,Emp_66,MARKETING,102576,Very High Salary
+59,Emp_59,FINANCE,34330,Low Salary
+68,Emp_68,FINANCE,57151,Medium Salary
+45,Emp_45,SALES,94752,Very High Salary
