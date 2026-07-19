@@ -225,7 +225,7 @@ To run this project, the following Azure resources are required:
 Clone the repository.
 
 ```bash
-git clone https://github.com/<your-username>/Employee-Lifecycle-Pipeline.git
+git clone https://github.com/mokshamarthi/Employee-Lifecycle-Pipeline.git
 ```
 
 ---
@@ -347,20 +347,9 @@ The project generates:
 
 ---
 
-# Future Enhancements
-
-- Incremental Data Loading
-- Parameterized Pipelines
-- Power BI Dashboard
-- Azure Key Vault Integration
-- CI/CD using Azure DevOps
-
----
-
 # Author
 
 **Moksha Sri Marthineni**
 
 Computer Science & Engineering
 
-Azure Data Engineering Project
