@@ -33,9 +33,6 @@ The pipeline is orchestrated using Azure Data Factory and processes employee dat
                         │
                         ▼
       Delta Tables / Analytical Outputs
-                        │
-                        ▼
-             Power BI (Optional)
 ```
 
 ---
